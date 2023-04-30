@@ -1,7 +1,8 @@
+About of me
 - 👋 Hi, I’m @EdwinReyes009
 - 👀 I’m interested in programation
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on projects of my school
+- 🌱 I have a variety of knowledge in different programming technologies
+- 💞️ I’m looking to collaborate on projects of my software team
 - 📫 How to reach me Edwin Reyes
 
 <!---
